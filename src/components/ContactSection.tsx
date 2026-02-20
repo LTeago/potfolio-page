@@ -149,7 +149,7 @@ const ContactSection = () => {
                 <div>
                   <p className="text-xs text-muted-foreground">LinkedIn</p>
                   <p className="text-sm text-foreground group-hover:text-primary transition-colors">
-                    Adicione seu link do LinkedIn
+                    https://www.linkedin.com/in/thiago-lopes-5a229a395/
                   </p>
                 </div>
               </a>
