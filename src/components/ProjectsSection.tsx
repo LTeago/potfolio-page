@@ -24,21 +24,28 @@ const projects: Project[] = [
       "Site portfólio moderno desenvolvido com React, TypeScript e Tailwind CSS para apresentar projetos e habilidades.",
     tags: ["React", "TypeScript", "Tailwind CSS", "Framer Motion"],
     liveUrl: "#",
-    githubUrl: "https://github.com/Lteago",
+    githubUrl: "https://github.com/Lteago/portfolio-page",
   },
   {
     title: "Sistema Web - EJ ECT",
     description:
       "Desenvolvimento front-end de sistemas web para a Empresa Júnior da Escola de Ciência e Tecnologia da UFRN.",
     tags: ["React", "JavaScript", "Scrum", "Git"],
-    githubUrl: "https://github.com/Lteago",
+    githubUrl: "https://github.com/LTeago/desafio-squad4-front",
   },
   {
-    title: "Análise de Dados com Python",
+    title: "Jogo de Sobrevivência em Python",
     description:
-      "Projeto de Data Science utilizando Python e Pandas para análise e visualização de dados.",
-    tags: ["Python", "Pandas", "Data Science"],
-    githubUrl: "https://github.com/Lteago",
+      "Jogo em Python desenvolvido utilizando bibliotecas como pygame e pygamezero.",
+    tags: ["Python", "Pygame", "Jogo"],
+    githubUrl: "https://github.com/python-game",
+  },
+  {
+    title: "Projeto Spotify Clone",
+    description:
+      "Projeto full-stack que simula um sistema de streaming de música, utilizando React para o front-end e MongoDB para o back-end.",
+    tags: ["JavaScript", "MongoDB", "React"],
+    githubUrl: "https://github.com/Lteago/Spotify-Project",
   },
   // ↓ Copie o bloco abaixo para adicionar mais projetos ↓
   // {

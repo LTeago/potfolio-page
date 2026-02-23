@@ -12,12 +12,12 @@ const highlights = [
   {
     icon: Code2,
     title: "Foco",
-    description: "Desenvolvimento Web Front-End",
+    description: "Desenvolvimento Web Full-Stack, Data Science e Infraestrutura",
   },
   {
     icon: Target,
     title: "Objetivo",
-    description: "Primeiro estágio em desenvolvimento",
+    description: "Estágio na área de desenvolvimento",
   },
   {
     icon: Zap,

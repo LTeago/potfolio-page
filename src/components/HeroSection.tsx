@@ -42,7 +42,7 @@ const HeroSection = () => {
 
           {/* Role */}
           <p className="text-lg sm:text-xl md:text-2xl text-muted-foreground font-light mb-3">
-            Desenvolvedor Front-End
+            Desenvolvedor Full-Stack e Programador Python e C++
           </p>
 
           {/* Tagline */}
