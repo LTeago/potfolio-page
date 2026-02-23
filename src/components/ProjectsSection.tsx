@@ -3,11 +3,7 @@ import { useRef } from "react";
 import { ExternalLink, Github, Folder } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
-/* ============================================================
-   PROJETOS - Para adicionar um novo projeto, basta copiar
-   um objeto abaixo e preencher os campos. A seção é 100%
-   padronizada, então basta duplicar e editar.
-   ============================================================ */
+
 interface Project {
   /** Título do projeto */
   title: string;
